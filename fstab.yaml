@@ -1,5 +1,5 @@
 mountpoints:
   /:
-    url: "https://author-p23458-e1033032.adobeaemcloud.com/bin/franklin.delivery/thadojus/thedropcollective/main"
+    url: "https://author-p23458-e1033032.adobeaemcloud.com/bin/franklin.delivery/POC-TSP/thedropcollective/main"
     type: "markup"
     suffix: ".html"
